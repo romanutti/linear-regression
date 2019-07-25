@@ -1,4 +1,4 @@
-# Machine Learning - Uebung 1
+# Machine Learning - Linear Regression
 
 Estimate the price of real estate using linear regression with different features, Module ml@FHNW.
 
